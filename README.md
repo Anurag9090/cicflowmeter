@@ -3,7 +3,7 @@
 ### Installation
 
 ```sh
-git clone https://gitlab.com/hieulw/cicflowmeter
+git clone https://github.com/Anurag9090/cicflowmeter.git
 cd cicflowmeter
 python setup.py install
 ```
